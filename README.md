@@ -26,9 +26,9 @@ My experience spans the complete AI lifecycle — from data engineering, feature
 
 **GenAI & Agents:** LangChain, LangGraph, LangSmith, RAG, MCP, Azure OpenAI
 
-**Cloud:** Azure AI Foundry, Azure AI Search, Azure AI Document Intelligence, AWS SageMaker, Databricks
+**Cloud:** Azure AI Foundry, Azure AI Search, Azure AI Document Intelligence, AWS SageMaker, AWS Bedrock, Databricks
 
-**Engineering:** FastAPI, Docker, Git, GitHub Actions, MLflow, Apache Spark, Airflow
+**Engineering:** FastAPI, Docker, Git, GitHub Actions, Gitlab, MLflow, Apache Spark, Snowflake, Airflow
 
 ## 💼 Engineering Experience
 
