@@ -1,6 +1,6 @@
 # Hi, I'm Rajasekhara Reddy 👋
 
-### AI/ML Engineer | Machine Learning | Deep Learning | Generative AI | Agentic AI
+### AI/ML Engineer | Data Science | Machine Learning | Deep Learning | Generative AI | Agentic AI
 
 AI/ML Engineer with **5+ years of experience** designing, developing, and deploying production-grade AI and Machine Learning solutions across enterprise environments.
 
